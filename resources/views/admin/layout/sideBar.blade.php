@@ -30,7 +30,7 @@
         <!-- ### $Sidebar Menu ### -->
         <ul class="sidebar-menu scrollable pos-r">
             <li class="nav-item mT-30 active">
-                <a class="sidebar-link" href="/admin/dashboard">
+                <a class="sidebar-link" href="/adminator/dashboard">
                 <span class="icon-holder">
                   <i class="c-blue-500 ti-home"></i>
                 </span>
@@ -38,7 +38,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class='sidebar-link' href="/admin/email">
+                <a class='sidebar-link' href="/adminator/email">
                 <span class="icon-holder">
                   <i class="c-brown-500 ti-email"></i>
                 </span>
@@ -46,7 +46,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class='sidebar-link' href="/admin/compose">
+                <a class='sidebar-link' href="/adminator/compose">
                 <span class="icon-holder">
                   <i class="c-blue-500 ti-share"></i>
                 </span>
@@ -54,7 +54,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class='sidebar-link' href="/admin/calendar">
+                <a class='sidebar-link' href="/adminator/calendar">
                 <span class="icon-holder">
                   <i class="c-deep-orange-500 ti-calendar"></i>
                 </span>
@@ -62,7 +62,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class='sidebar-link' href="/admin/chat">
+                <a class='sidebar-link' href="/adminator/chat">
                 <span class="icon-holder">
                   <i class="c-deep-purple-500 ti-comment-alt"></i>
                 </span>
@@ -70,7 +70,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class='sidebar-link' href="/admin/charts">
+                <a class='sidebar-link' href="/adminator/charts">
                 <span class="icon-holder">
                   <i class="c-indigo-500 ti-bar-chart"></i>
                 </span>
@@ -78,7 +78,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class='sidebar-link' href="/admin/forms">
+                <a class='sidebar-link' href="/adminator/forms">
                 <span class="icon-holder">
                   <i class="c-light-blue-500 ti-pencil"></i>
                 </span>
@@ -86,7 +86,7 @@
                 </a>
             </li>
             <li class="nav-item dropdown">
-                <a class="sidebar-link" href="/admin/ui">
+                <a class="sidebar-link" href="/adminator/ui">
                 <span class="icon-holder">
                     <i class="c-pink-500 ti-palette"></i>
                   </span>
@@ -105,10 +105,10 @@
                 </a>
                 <ul class="dropdown-menu">
                     <li>
-                        <a class='sidebar-link' href="/admin/basic-table">Basic Table</a>
+                        <a class='sidebar-link' href="/adminator/basic-table">Basic Table</a>
                     </li>
                     <li>
-                        <a class='sidebar-link' href="/admin/datatable">Data Table</a>
+                        <a class='sidebar-link' href="/adminator/datatable">Data Table</a>
                     </li>
                 </ul>
             </li>
@@ -124,10 +124,10 @@
                 </a>
                 <ul class="dropdown-menu">
                     <li>
-                        <a href="/admin/google-maps">Google Map</a>
+                        <a href="/adminator/google-maps">Google Map</a>
                     </li>
                     <li>
-                        <a href="/admin/vector-maps">Vector Map</a>
+                        <a href="/adminator/vector-maps">Vector Map</a>
                     </li>
                 </ul>
             </li>
@@ -143,19 +143,19 @@
                 </a>
                 <ul class="dropdown-menu">
                     <li>
-                        <a class='sidebar-link' href="/admin/blank">Blank</a>
+                        <a class='sidebar-link' href="/adminator/blank">Blank</a>
                     </li>
                     <li>
-                        <a class='sidebar-link' href="/admin/404">404</a>
+                        <a class='sidebar-link' href="/adminator/404">404</a>
                     </li>
                     <li>
-                        <a class='sidebar-link' href="/admin/500">500</a>
+                        <a class='sidebar-link' href="/adminator/500">500</a>
                     </li>
                     <li>
-                        <a class='sidebar-link' href="/admin/signin">Sign In</a>
+                        <a class='sidebar-link' href="/adminator/signin">Sign In</a>
                     </li>
                     <li>
-                        <a class='sidebar-link' href="/admin/signup">Sign Up</a>
+                        <a class='sidebar-link' href="/adminator/signup">Sign Up</a>
                     </li>
                 </ul>
             </li>

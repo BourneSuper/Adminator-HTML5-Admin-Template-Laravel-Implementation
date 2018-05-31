@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Adminator - @yield('title')</title>
-    <link rel="stylesheet" href="{{  mix('/css/admin.css') }}">
+    <link rel="stylesheet" href="{{  mix('/css/adminator.css') }}">
     <style>
         #loader {
             transition: all 0.3s ease-in-out;
@@ -88,12 +88,12 @@
 <!-- =================================================== -->
 <div>
     <!-- #Left Sidebar ==================== -->
-    @include('admin.layout.sideBar')
+    @include('adminator.layout.sideBar')
 
     <!-- #Main ============================ -->
     <div class="page-container">
         <!-- ### $Topbar ### -->
-        @include('admin.layout.topBar')
+        @include('adminator.layout.topBar')
 
         <!-- ### $App Screen Content ### -->
         <main class='main-content bgc-grey-100'>
@@ -103,9 +103,9 @@
         </main>
 
         <!-- ### $App Screen Footer ### -->
-        @include('admin.layout.footer')
+        @include('adminator.layout.footer')
     </div>
 </div>
-<script src="{{ mix('/js/admin.js') }}"></script>
+<script src="{{ mix('/js/adminator.js') }}"></script>
 </body>
 </html>

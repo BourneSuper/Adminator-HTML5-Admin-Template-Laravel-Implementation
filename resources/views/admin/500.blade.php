@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>500 - Internal server error</title>
-    <link rel="stylesheet" href="{{  mix('/css/admin.css') }}">
+    <link rel="stylesheet" href="{{  mix('/css/adminator.css') }}">
 </head>
 <body class="app">
 <div class='pos-a t-0 l-0 bgc-white w-100 h-100 d-f fxd-r fxw-w ai-c jc-c pos-r p-30'>
@@ -17,7 +17,7 @@
         <h3 class='mB-10 fsz-lg c-grey-900 tt-c'>Internal server error</h3>
         <p class='mB-30 fsz-def c-grey-700'>Something goes wrong with our servers, please try again later.</p>
         <div>
-            <a href="/admin/dashboard" type='primary' class='btn btn-primary'>Go to Home</a>
+            <a href="/adminator/dashboard" type='primary' class='btn btn-primary'>Go to Home</a>
         </div>
     </div>
 </div>

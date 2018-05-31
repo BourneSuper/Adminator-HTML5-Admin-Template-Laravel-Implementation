@@ -41,7 +41,7 @@ Start by typing the following commands in your terminal in order to get **Admina
 > php artisan serve
 ```
 
-To access admin dashboard: http://localhost:8000/admin/dashboard 
+To access admin dashboard: http://localhost:8000/adminator/dashboard 
 
 ### Changelog
 #### V 1.0.0

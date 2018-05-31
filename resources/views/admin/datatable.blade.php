@@ -1,4 +1,4 @@
-@extends('admin.layout.layout')
+@extends('adminator.layout.layout')
 
 @section('title', 'Data Tables')
 @section('mainContent')

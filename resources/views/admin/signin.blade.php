@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Adminator - Sign In</title>
-    <link rel="stylesheet" href="{{ mix('/css/admin.css') }}">
+    <link rel="stylesheet" href="{{ mix('/css/adminator.css') }}">
     <style>
         #loader {
             transition: all 0.3s ease-in-out;

@@ -3,4 +3,4 @@ try {
 } catch (e) {}
 
 // Admin scripts
-require('./admin/index');
+require('./adminator/index');
