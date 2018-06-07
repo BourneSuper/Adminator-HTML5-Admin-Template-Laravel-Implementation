@@ -82,12 +82,16 @@ export default (function () {
         scaleColors: ['#b6d6ff', '#005ace'],
         selectedColor: '#c9dfaf',
         selectedRegions: [],
-        enableZoom: false,
+        enableZoom: true,
         hoverColor: '#fff',
       });
     }
   };
-
-  vectorMapInit();
+  
+  $(document).ready(function(){
+	  vectorMapInit();
+  });
+  
   $(window).resize(debounce(vectorMapInit, 150));
+  
 })();
